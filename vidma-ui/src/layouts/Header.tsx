@@ -42,7 +42,7 @@ const Header: React.FC = () => {
     <header
       className={`header ${scrolled ? "scrolled" : ""} ${!isHome ? "scrolled" : ""}`}
     >
-    fdfgdgfsdfgdgfd
+    fdfgdgfsdfgdgfdsss
       <div className="container flex items-center justify-between">
         <img className="logo-img" src={logo} alt="Logo" />
 
